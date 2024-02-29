@@ -1,111 +1,74 @@
-<h1 align="center">Hi , I'm Affan Akbarulloh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/Samunee/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Web+Developer;Junior+Network+Administrator;GTA+SA:MP+Developer;Minecraft+Server++Developer;Still%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-<hr/>
-<h4 align="center">I am a second-year vocational school student majoring in Computer Network Engineering.<br> Focus on network engineering and website developers.</h4>
-<h4 align="center">I am presently studying programming languages such as JavaScript, Python, Java and PHP .. and learn HTML and CSS as markup and styling language</h4>
-<br>
+![My card name](https://cardivo-beta.vercel.app/api?name=Muhammad%20Ilham%20Jaya&description=Hi%20There,%20i%27m%20Beginner%20Developer%20and%20i%27m%2016%20y.o.%20%20I%27m%20from%20Indonesia%20and%20now%20me%20%20studying%20at%20Software%20Engineering%20Major%20of%20Vocational%20High%20School%20%F0%9F%98%8A&image=https://avatars.githubusercontent.com/u/141555404&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=0.5&site=https:/ilhamjaya08.me&instagram=ilham.j_08&github=ilhamjaya08)
 
-## 🛠️ My Skills
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ilhamjaya08&label=PROFILE+VIEWS"/>
+<a href="https://github.com/ilhamjaya08"><img src="https://img.shields.io/github/followers/ilhamjaya08?label=followers&style=social"/></a>
+<a href="https://user-badge.committers.top/indonesia/ilhamjaya08"><img src="https://user-badge.committers.top/indonesia/ilhamjaya08.svg" alt="committers.top badge"></a>
+<br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=ilhamjaya08&row=1&theme=darkhub"/>
+<br><br>
 
-### 👨‍💻 Tech Stack
+![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-green?style=for-the-badge&logo=MD)
+![Made With HTML](https://img.shields.io/badge/Made%20with-Html-orange?style=for-the-badge&logo=HTML)
+<br><br>
 
-<p align="left"> 
+## 🔰 List of Language, Framework, Tools, OS, Cloud Service, Device, Platform,  and others i used
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Pawn](https://img.shields.io/badge/Pawn-F96854?style=for-the-badge&logo=patreon&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<br><br>
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br><br>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<br><br>
+![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<br><br>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+<br><br>
+![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
 
-   <a href="#"> 
-     <img alt="HTML" src="https://camo.githubusercontent.com/92fa9581acf51a3c5d8c7b0e723fe857cd693f74a3f75d3671716c6bc7de6bbc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465267374796c653d666c6174">
-   </a>
-  
-   <a href="#">
-    <img alt="CSS" src="https://camo.githubusercontent.com/f60976f27d4829bbd135a521c38b5cca637ab7cbaa1ba47ae26e6bb7542c8d7f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242363f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465267374796c653d666c6174">
-  </a>
-  
-   <a href="https://www.java.com" target="_blank">
-    <img alt="Javasript" src="https://camo.githubusercontent.com/38a948b2218867f34dfad9bd4fdbbc30632375f7ef75ab3571c4c6deb19806dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465267374796c653d666c6174">
-  </a>
-  
-   <a href="#">
-    <img alt="nodejs" src="https://camo.githubusercontent.com/47ceda32390df683d8ecc3b1cfc18afeaf6536dfe06dfd1910488e4ae7fe06c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465267374796c653d666c6174">
-  </a>
-  
-  <a href="#"> 
-   <img alt="react" src="https://camo.githubusercontent.com/8f595b8a978309381b15f4fe337b991bdc34204455c870a8e3be70c008840e8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3030414444383f6c6f676f3d7265616374266c6f676f436f6c6f723d7768697465267374796c653d666c6174">
-  </a>   
-  
-  <a href="#">
-    <img alt="golang" src="https://camo.githubusercontent.com/653cb58a09bd3aafdff2a0a99531d75f9a42e72e21f3a469983f1209e43bed95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f2d3030414444383f6c6f676f3d676f266c6f676f436f6c6f723d7768697465267374796c653d666c6174">
-  </a>
-  
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?%20-%23E34F26.svg?&logo=php&logoColor=white">
-  </a>
-  
-  <a href="https://getbootstrap.com/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/Bootstrap%20-%2314354C.svg?logo=bootstrap&logoColor=orange">
-  </a>   
-  
-  <a href="#">
-    <img alt="laravel" src="https://camo.githubusercontent.com/b57dc1ffa0b87f93b8c6b32d93975e84d70d49de83ba1f0e3461beceecc44c1e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c61726176656c2d7265643f6c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465267374796c653d666c6174">
-  </a>
-
-  <a href="#">
-    <img alt="codeigniter" src="https://camo.githubusercontent.com/250383de9bd4ea832693672ff062306f2dfa600979c561a3dee522a62ee91305/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f646569676e697465722d7265643f6c6f676f3d636f646569676e69746572266c6f676f436f6c6f723d7768697465267374796c653d666c6174">
-  </a>
-
-   <a href="#">
-    <img alt="python" src="https://camo.githubusercontent.com/9ea67105a9d6e5e98ace28d9ddee21b49cc0c8ad3f01fdbb1032bed9524b07b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3030414444383f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465267374796c653d666c6174">
-  </a>
-
-
-</p>
-
- ### 💾 Version Control and Development tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://camo.githubusercontent.com/df1b17c78cb9d536b75c7aac390804a95febe8b863800236a2df5d839538f382/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f6c6f676f3d676974687562266c6f676f436f6c6f723d7768697465267374796c653d666c6174"></a>
-<p>
-  &emsp;
-</p>
-
-<br/>
-
-## 📊 Github Stats (Expand to View) 
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-        <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&preferLogin=false&Background=DDDDDD">    <img  alt="NotFinzyX's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/NotFinzyX?cardType=github&preferLogin=false&Background=DDDDDD" />  </a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samunee&layout=compact&theme=algolia" alt="Samunee" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/NotFinzyX"><img alt="Samunee's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samunee&custom_title=Samunee%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
-<br/>
-
-## 🙋‍♀️ Let's Connect
-<p align="center">
-  <a href="https://discord.gg/MsxuncgpUq"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Discord"/></a>
-	<a href="mailto:notfinzy@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/NotFinzyX"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.youtube.com/channel/FANHOST-OFC"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
-</p>
+## 🎟️ My Web, Contact, Social Media is below. You can access and follow me by clicking on the logo badges below:
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com//)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ilham.j_08/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@ilhamjaya08)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289603982787/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/muhammad-ilham-jaya-43899628b/)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ilhamjaya1808@outlook.co.idm)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.ilhamjaya1808@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vXDhTktSSh)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ilhamjaya08/)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Hamm_XD08/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)]()
+[![Linktree](https://img.shields.io/badge/linktree%20for%20my%20others%20media-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ilhamjaya08/)
+<br><br>
+<img src="https://discord.c99.nl/widget/theme-1/757257945531678760.png" alt="ilhamjaya08 discord" />
+## 📶 My GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhamjaya08&show_icons=true&theme=cobalt)
+![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ilhamjaya08)
+## 💽 My Top Languages from my repositories
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamjaya08)](https://github.com/anuraghazra/github-readme-stats)
+## 🌐 My Wakatime Stats
+<img
+  src="https://github.com/ilhamjaya08/ilhamjaya08/blob/main/images/stat.svg"
+  alt="Wakatime Stats"
+/>
+## ♦️ My StackOverflow Stats
+[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/22596115)](https://stackoverflow.com/users/22596115/ilhamjaya08)

@@ -1,7 +1,7 @@
-![My card name](https://cardivo-beta.vercel.app/api?name=Affan%20Akbarulloh%20&description=Hi%20There,%20i%27m%20Beginner%20Developer%20and%20i%27m%2016%20y.o.%20%20I%27m%20from%20Indonesia%20and%20now%20me%20%20studying%20at%20Network%20Engineering%20Major%20of%20Vocational%20High%20School%20%F0%9F%98%8A&image=https://avatars.githubusercontent.com/u/141555404&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=0.5&site=https:/ilhamjaya08.me&instagram=finnn.zy_08&github=ilhamjaya08)
+![My card name](https://cardivo-beta.vercel.app/api?name=Affan%20Akbarulloh%20&description=Hi%20There,%20i%27m%20Beginner%20Developer%20and%20i%27m%2016%20y.o.%20%20I%27m%20from%20Indonesia%20and%20now%20me%20%20studying%20at%20Network%20Engineering%20Major%20of%20Vocational%20High%20School%20%F0%9F%98%8A&image=https://avatars.githubusercontent.com/u/141555404&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=0.5&site=https:/ilhamjaya08.me&instagram=finnn.zy&github=NotFinzyX)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ilhamjaya08&label=PROFILE+VIEWS"/>
+![](https://komarev.com/ghpvc/?NotFinzyX&label=PROFILE+VIEWS)
 <a href="https://github.com/ilhamjaya08"><img src="https://img.shields.io/github/followers/ilhamjaya08?label=followers&style=social"/></a>
 <a href="https://user-badge.committers.top/indonesia/ilhamjaya08"><img src="https://user-badge.committers.top/indonesia/ilhamjaya08.svg" alt="committers.top badge"></a>
 <br><br>
